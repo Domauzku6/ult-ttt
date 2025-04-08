@@ -1,0 +1,71 @@
+2025-04-08 14:42:19 - INFO - --- New Game Started (Game 1, Difficulty: Normal) ---
+2025-04-08 14:42:23 - INFO - X moved to (Row: 1, Col: 1)
+2025-04-08 14:42:23 - INFO - AI (Normal) making random move due to difficulty setting.
+2025-04-08 14:42:23 - INFO - AI calculation time: 0.000 seconds
+2025-04-08 14:42:23 - INFO - O (random (difficulty)) moved to (Row: 2, Col: 1)
+2025-04-08 14:42:26 - INFO - X moved to (Row: 5, Col: 1)
+2025-04-08 14:42:26 - INFO - AI calculation time: 0.096 seconds
+2025-04-08 14:42:26 - INFO - O (minimax/fallback) moved to (Row: 6, Col: 1)
+2025-04-08 14:42:27 - INFO - X moved to (Row: 7, Col: 3)
+2025-04-08 14:42:27 - INFO - AI calculation time: 0.081 seconds
+2025-04-08 14:42:27 - INFO - O (minimax/fallback) moved to (Row: 1, Col: 9)
+2025-04-08 14:42:28 - INFO - X moved to (Row: 1, Col: 8)
+2025-04-08 14:42:29 - INFO - AI calculation time: 0.127 seconds
+2025-04-08 14:42:29 - INFO - O (minimax/fallback) moved to (Row: 3, Col: 6)
+2025-04-08 14:42:29 - INFO - X moved to (Row: 9, Col: 8)
+2025-04-08 14:42:30 - INFO - AI calculation time: 0.120 seconds
+2025-04-08 14:42:30 - INFO - O (minimax/fallback) moved to (Row: 8, Col: 5)
+2025-04-08 14:42:30 - INFO - X moved to (Row: 5, Col: 5)
+2025-04-08 14:42:31 - INFO - AI calculation time: 0.109 seconds
+2025-04-08 14:42:31 - INFO - O (minimax/fallback) moved to (Row: 4, Col: 5)
+2025-04-08 14:42:32 - INFO - X moved to (Row: 1, Col: 4)
+2025-04-08 14:42:32 - INFO - AI calculation time: 0.102 seconds
+2025-04-08 14:42:32 - INFO - O (minimax/fallback) moved to (Row: 2, Col: 3)
+2025-04-08 14:42:33 - INFO - X moved to (Row: 6, Col: 8)
+2025-04-08 14:42:33 - INFO - AI calculation time: 0.109 seconds
+2025-04-08 14:42:33 - INFO - O (minimax/fallback) moved to (Row: 9, Col: 4)
+2025-04-08 14:42:34 - INFO - X moved to (Row: 8, Col: 3)
+2025-04-08 14:42:34 - INFO - AI (Normal) making random move due to difficulty setting.
+2025-04-08 14:42:34 - INFO - AI calculation time: 0.002 seconds
+2025-04-08 14:42:34 - INFO - O (random (difficulty)) moved to (Row: 4, Col: 9)
+2025-04-08 14:42:36 - INFO - X moved to (Row: 1, Col: 7)
+2025-04-08 14:42:36 - INFO - AI calculation time: 0.082 seconds
+2025-04-08 14:42:36 - INFO - O (minimax/fallback) moved to (Row: 2, Col: 2)
+2025-04-08 14:42:37 - INFO - X moved to (Row: 6, Col: 6)
+2025-04-08 14:42:37 - INFO - AI calculation time: 0.239 seconds
+2025-04-08 14:42:37 - INFO - O (minimax/fallback) moved to (Row: 7, Col: 8)
+2025-04-08 14:42:38 - INFO - X moved to (Row: 2, Col: 4)
+2025-04-08 14:42:39 - INFO - AI calculation time: 0.167 seconds
+2025-04-08 14:42:39 - INFO - O (minimax/fallback) moved to (Row: 6, Col: 2)
+2025-04-08 14:42:40 - INFO - X moved to (Row: 7, Col: 6)
+2025-04-08 14:42:40 - INFO - AI (Normal) making random move due to difficulty setting.
+2025-04-08 14:42:40 - INFO - AI calculation time: 0.000 seconds
+2025-04-08 14:42:40 - INFO - O (random (difficulty)) moved to (Row: 3, Col: 7)
+2025-04-08 14:42:41 - INFO - X moved to (Row: 9, Col: 3)
+2025-04-08 14:42:41 - INFO - AI (Normal) making random move due to difficulty setting.
+2025-04-08 14:42:41 - INFO - AI calculation time: 0.000 seconds
+2025-04-08 14:42:41 - INFO - O (random (difficulty)) moved to (Row: 9, Col: 9)
+2025-04-08 14:42:44 - INFO - X moved to (Row: 8, Col: 8)
+2025-04-08 14:42:44 - INFO - AI (Normal) making random move due to difficulty setting.
+2025-04-08 14:42:44 - INFO - AI calculation time: 0.000 seconds
+2025-04-08 14:42:44 - INFO - O (random (difficulty)) moved to (Row: 4, Col: 6)
+2025-04-08 14:42:46 - INFO - X moved to (Row: 2, Col: 7)
+2025-04-08 14:42:46 - INFO - AI calculation time: 0.160 seconds
+2025-04-08 14:42:46 - INFO - O (minimax/fallback) moved to (Row: 6, Col: 3)
+2025-04-08 14:42:47 - INFO - X moved to (Row: 8, Col: 9)
+2025-04-08 14:42:47 - INFO - AI calculation time: 0.192 seconds
+2025-04-08 14:42:47 - INFO - O (minimax/fallback) moved to (Row: 5, Col: 9)
+2025-04-08 14:42:49 - INFO - X moved to (Row: 5, Col: 8)
+2025-04-08 14:42:49 - INFO - AI calculation time: 0.151 seconds
+2025-04-08 14:42:49 - INFO - O (minimax/fallback) moved to (Row: 4, Col: 4)
+2025-04-08 14:42:52 - INFO - X moved to (Row: 4, Col: 8)
+2025-04-08 14:42:52 - INFO - AI calculation time: 0.095 seconds
+2025-04-08 14:42:52 - INFO - O (minimax/fallback) moved to (Row: 3, Col: 5)
+2025-04-08 14:42:58 - INFO - X moved to (Row: 7, Col: 4)
+2025-04-08 14:42:59 - INFO - AI calculation time: 0.196 seconds
+2025-04-08 14:42:59 - INFO - O (minimax/fallback) moved to (Row: 7, Col: 9)
+2025-04-08 14:43:02 - INFO - X moved to (Row: 2, Col: 8)
+2025-04-08 14:43:02 - INFO - AI calculation time: 0.060 seconds
+2025-04-08 14:43:02 - INFO - O (minimax/fallback) moved to (Row: 7, Col: 7)
+2025-04-08 14:43:02 - INFO - --- Game Over: O wins! ---
+2025-04-08 14:43:07 - INFO - --- Difficulty changed to Easy ---
